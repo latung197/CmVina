@@ -1,0 +1,14 @@
+D:\Tài Liệu\Source\CmVina\CmVina.Service\bin\Debug\CmVina.Service.exe.config
+D:\Tài Liệu\Source\CmVina\CmVina.Service\bin\Debug\CmVina.Service.exe
+D:\Tài Liệu\Source\CmVina\CmVina.Service\bin\Debug\CmVina.Service.pdb
+D:\Tài Liệu\Source\CmVina\CmVina.Service\bin\Debug\CmVina.Common.dll
+D:\Tài Liệu\Source\CmVina\CmVina.Service\bin\Debug\CmVina.Data.dll
+D:\Tài Liệu\Source\CmVina\CmVina.Service\bin\Debug\CmVina.Model.dll
+D:\Tài Liệu\Source\CmVina\CmVina.Service\bin\Debug\CmVina.Common.pdb
+D:\Tài Liệu\Source\CmVina\CmVina.Service\bin\Debug\CmVina.Data.pdb
+D:\Tài Liệu\Source\CmVina\CmVina.Service\bin\Debug\CmVina.Model.pdb
+D:\Tài Liệu\Source\CmVina\CmVina.Service\obj\Debug\CmVina.Service.csproj.AssemblyReference.cache
+D:\Tài Liệu\Source\CmVina\CmVina.Service\obj\Debug\CmVina.Service.csproj.CoreCompileInputs.cache
+D:\Tài Liệu\Source\CmVina\CmVina.Service\obj\Debug\CmVina.Service.csproj.CopyComplete
+D:\Tài Liệu\Source\CmVina\CmVina.Service\obj\Debug\CmVina.Service.exe
+D:\Tài Liệu\Source\CmVina\CmVina.Service\obj\Debug\CmVina.Service.pdb

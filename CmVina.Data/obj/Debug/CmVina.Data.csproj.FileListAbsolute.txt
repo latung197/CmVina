@@ -1,0 +1,11 @@
+D:\Tài Liệu\Source\CmVina\CmVina.Data\bin\Debug\CmVina.Data.dll
+D:\Tài Liệu\Source\CmVina\CmVina.Data\bin\Debug\CmVina.Data.pdb
+D:\Tài Liệu\Source\CmVina\CmVina.Data\bin\Debug\CmVina.Common.dll
+D:\Tài Liệu\Source\CmVina\CmVina.Data\bin\Debug\CmVina.Model.dll
+D:\Tài Liệu\Source\CmVina\CmVina.Data\bin\Debug\CmVina.Common.pdb
+D:\Tài Liệu\Source\CmVina\CmVina.Data\bin\Debug\CmVina.Model.pdb
+D:\Tài Liệu\Source\CmVina\CmVina.Data\obj\Debug\CmVina.Data.csproj.AssemblyReference.cache
+D:\Tài Liệu\Source\CmVina\CmVina.Data\obj\Debug\CmVina.Data.csproj.CoreCompileInputs.cache
+D:\Tài Liệu\Source\CmVina\CmVina.Data\obj\Debug\CmVina.Data.csproj.CopyComplete
+D:\Tài Liệu\Source\CmVina\CmVina.Data\obj\Debug\CmVina.Data.dll
+D:\Tài Liệu\Source\CmVina\CmVina.Data\obj\Debug\CmVina.Data.pdb

@@ -1,0 +1,6 @@
+D:\Tài Liệu\Source\CmVina\CmVina.Model\bin\Debug\CmVina.Model.dll
+D:\Tài Liệu\Source\CmVina\CmVina.Model\bin\Debug\CmVina.Model.pdb
+D:\Tài Liệu\Source\CmVina\CmVina.Model\obj\Debug\CmVina.Model.csproj.AssemblyReference.cache
+D:\Tài Liệu\Source\CmVina\CmVina.Model\obj\Debug\CmVina.Model.csproj.CoreCompileInputs.cache
+D:\Tài Liệu\Source\CmVina\CmVina.Model\obj\Debug\CmVina.Model.dll
+D:\Tài Liệu\Source\CmVina\CmVina.Model\obj\Debug\CmVina.Model.pdb
