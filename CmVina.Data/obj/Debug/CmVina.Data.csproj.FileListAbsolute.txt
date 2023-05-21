@@ -9,3 +9,23 @@ D:\Tài Liệu\Source\CmVina\CmVina.Data\obj\Debug\CmVina.Data.csproj.CoreCompil
 D:\Tài Liệu\Source\CmVina\CmVina.Data\obj\Debug\CmVina.Data.csproj.CopyComplete
 D:\Tài Liệu\Source\CmVina\CmVina.Data\obj\Debug\CmVina.Data.dll
 D:\Tài Liệu\Source\CmVina\CmVina.Data\obj\Debug\CmVina.Data.pdb
+D:\TongHopKienThuc\CmVina\CmVina.Data\bin\Debug\CmVina.Data.dll.config
+D:\TongHopKienThuc\CmVina\CmVina.Data\bin\Debug\CmVina.Data.dll
+D:\TongHopKienThuc\CmVina\CmVina.Data\bin\Debug\CmVina.Data.pdb
+D:\TongHopKienThuc\CmVina\CmVina.Data\bin\Debug\CmVina.Common.dll
+D:\TongHopKienThuc\CmVina\CmVina.Data\bin\Debug\CmVina.Model.dll
+D:\TongHopKienThuc\CmVina\CmVina.Data\bin\Debug\EntityFramework.dll
+D:\TongHopKienThuc\CmVina\CmVina.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\TongHopKienThuc\CmVina\CmVina.Data\bin\Debug\CmVina.Common.pdb
+D:\TongHopKienThuc\CmVina\CmVina.Data\bin\Debug\CmVina.Common.dll.config
+D:\TongHopKienThuc\CmVina\CmVina.Data\bin\Debug\CmVina.Model.pdb
+D:\TongHopKienThuc\CmVina\CmVina.Data\bin\Debug\CmVina.Model.dll.config
+D:\TongHopKienThuc\CmVina\CmVina.Data\bin\Debug\EntityFramework.xml
+D:\TongHopKienThuc\CmVina\CmVina.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\TongHopKienThuc\CmVina\CmVina.Data\obj\Debug\CmVina.Data.csprojAssemblyReference.cache
+D:\TongHopKienThuc\CmVina\CmVina.Data\obj\Debug\CmVina.Data.csproj.CoreCompileInputs.cache
+D:\TongHopKienThuc\CmVina\CmVina.Data\obj\Debug\CmVina.Data.csproj.CopyComplete
+D:\TongHopKienThuc\CmVina\CmVina.Data\obj\Debug\CmVina.Data.dll
+D:\TongHopKienThuc\CmVina\CmVina.Data\obj\Debug\CmVina.Data.pdb
+D:\TongHopKienThuc\CmVina\CmVina.Data\obj\Debug\CmVina.Data.Migrations.InitialDB.resources
+D:\TongHopKienThuc\CmVina\CmVina.Data\obj\Debug\CmVina.Data.csproj.GenerateResource.cache

@@ -4,3 +4,15 @@ D:\Tài Liệu\Source\CmVina\CmVina.Common\obj\Debug\CmVina.Common.csproj.Assemb
 D:\Tài Liệu\Source\CmVina\CmVina.Common\obj\Debug\CmVina.Common.csproj.CoreCompileInputs.cache
 D:\Tài Liệu\Source\CmVina\CmVina.Common\obj\Debug\CmVina.Common.dll
 D:\Tài Liệu\Source\CmVina\CmVina.Common\obj\Debug\CmVina.Common.pdb
+D:\TongHopKienThuc\CmVina\CmVina.Common\bin\Debug\CmVina.Common.dll.config
+D:\TongHopKienThuc\CmVina\CmVina.Common\bin\Debug\CmVina.Common.dll
+D:\TongHopKienThuc\CmVina\CmVina.Common\bin\Debug\CmVina.Common.pdb
+D:\TongHopKienThuc\CmVina\CmVina.Common\bin\Debug\EntityFramework.dll
+D:\TongHopKienThuc\CmVina\CmVina.Common\bin\Debug\EntityFramework.SqlServer.dll
+D:\TongHopKienThuc\CmVina\CmVina.Common\bin\Debug\EntityFramework.xml
+D:\TongHopKienThuc\CmVina\CmVina.Common\bin\Debug\EntityFramework.SqlServer.xml
+D:\TongHopKienThuc\CmVina\CmVina.Common\obj\Debug\CmVina.Common.csprojAssemblyReference.cache
+D:\TongHopKienThuc\CmVina\CmVina.Common\obj\Debug\CmVina.Common.csproj.CoreCompileInputs.cache
+D:\TongHopKienThuc\CmVina\CmVina.Common\obj\Debug\CmVina.Common.csproj.CopyComplete
+D:\TongHopKienThuc\CmVina\CmVina.Common\obj\Debug\CmVina.Common.dll
+D:\TongHopKienThuc\CmVina\CmVina.Common\obj\Debug\CmVina.Common.pdb

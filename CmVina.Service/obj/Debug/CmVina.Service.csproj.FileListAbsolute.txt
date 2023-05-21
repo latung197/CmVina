@@ -12,3 +12,24 @@ D:\Tài Liệu\Source\CmVina\CmVina.Service\obj\Debug\CmVina.Service.csproj.Core
 D:\Tài Liệu\Source\CmVina\CmVina.Service\obj\Debug\CmVina.Service.csproj.CopyComplete
 D:\Tài Liệu\Source\CmVina\CmVina.Service\obj\Debug\CmVina.Service.exe
 D:\Tài Liệu\Source\CmVina\CmVina.Service\obj\Debug\CmVina.Service.pdb
+D:\TongHopKienThuc\CmVina\CmVina.Service\bin\Debug\CmVina.Service.exe.config
+D:\TongHopKienThuc\CmVina\CmVina.Service\bin\Debug\CmVina.Service.exe
+D:\TongHopKienThuc\CmVina\CmVina.Service\bin\Debug\CmVina.Service.pdb
+D:\TongHopKienThuc\CmVina\CmVina.Service\bin\Debug\CmVina.Common.dll
+D:\TongHopKienThuc\CmVina\CmVina.Service\bin\Debug\CmVina.Data.dll
+D:\TongHopKienThuc\CmVina\CmVina.Service\bin\Debug\CmVina.Model.dll
+D:\TongHopKienThuc\CmVina\CmVina.Service\bin\Debug\EntityFramework.dll
+D:\TongHopKienThuc\CmVina\CmVina.Service\bin\Debug\EntityFramework.SqlServer.dll
+D:\TongHopKienThuc\CmVina\CmVina.Service\bin\Debug\CmVina.Common.pdb
+D:\TongHopKienThuc\CmVina\CmVina.Service\bin\Debug\CmVina.Common.dll.config
+D:\TongHopKienThuc\CmVina\CmVina.Service\bin\Debug\CmVina.Data.pdb
+D:\TongHopKienThuc\CmVina\CmVina.Service\bin\Debug\CmVina.Data.dll.config
+D:\TongHopKienThuc\CmVina\CmVina.Service\bin\Debug\CmVina.Model.pdb
+D:\TongHopKienThuc\CmVina\CmVina.Service\bin\Debug\CmVina.Model.dll.config
+D:\TongHopKienThuc\CmVina\CmVina.Service\bin\Debug\EntityFramework.xml
+D:\TongHopKienThuc\CmVina\CmVina.Service\bin\Debug\EntityFramework.SqlServer.xml
+D:\TongHopKienThuc\CmVina\CmVina.Service\obj\Debug\CmVina.Service.csprojAssemblyReference.cache
+D:\TongHopKienThuc\CmVina\CmVina.Service\obj\Debug\CmVina.Service.csproj.CoreCompileInputs.cache
+D:\TongHopKienThuc\CmVina\CmVina.Service\obj\Debug\CmVina.Service.csproj.CopyComplete
+D:\TongHopKienThuc\CmVina\CmVina.Service\obj\Debug\CmVina.Service.exe
+D:\TongHopKienThuc\CmVina\CmVina.Service\obj\Debug\CmVina.Service.pdb
