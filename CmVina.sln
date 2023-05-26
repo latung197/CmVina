@@ -11,7 +11,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CmVina.Data", "CmVina.Data\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CmVina.Service", "CmVina.Service\CmVina.Service.csproj", "{1A0B5520-ABDE-47AB-A0E8-F474C2A7E67A}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "CmVina.Web", "CmVina.Web\CmVina.Web.vbproj", "{4A313039-AC00-4893-BD5C-BCE3E2CC38CB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CmVina.Web", "CmVina.Web\CmVina.Web.csproj", "{B1207584-9865-4F1A-B209-4FE4284EAD5D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -35,10 +35,10 @@ Global
 		{1A0B5520-ABDE-47AB-A0E8-F474C2A7E67A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1A0B5520-ABDE-47AB-A0E8-F474C2A7E67A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1A0B5520-ABDE-47AB-A0E8-F474C2A7E67A}.Release|Any CPU.Build.0 = Release|Any CPU
-		{4A313039-AC00-4893-BD5C-BCE3E2CC38CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{4A313039-AC00-4893-BD5C-BCE3E2CC38CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{4A313039-AC00-4893-BD5C-BCE3E2CC38CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{4A313039-AC00-4893-BD5C-BCE3E2CC38CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1207584-9865-4F1A-B209-4FE4284EAD5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1207584-9865-4F1A-B209-4FE4284EAD5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1207584-9865-4F1A-B209-4FE4284EAD5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1207584-9865-4F1A-B209-4FE4284EAD5D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
